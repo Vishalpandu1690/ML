@@ -1,0 +1,9 @@
+data:
+  raw_path: data/raw
+  interim_path: data/interim
+  processed_path: data/processed
+
+model:
+  target_col: Weekly_Sales
+  date_col: Date
+
