@@ -1,4 +1,6 @@
 # Retail Sales Forecasting
+## Description
+This project forecasts weekly sales for retail stores using historical data.
 
 ## Goal
 Forecast store-level weekly sales to support inventory planning and optimization.
